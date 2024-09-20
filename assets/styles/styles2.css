@@ -1,0 +1,15 @@
+*{
+margin: 0;
+padding: 0;
+color: rgb(255, 255, 255);
+background-color: black;
+font-size: 40px;
+}
+
+main {
+display: flex; justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
